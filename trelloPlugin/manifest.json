@@ -1,0 +1,11 @@
+{
+   "name": "Trello plugin to organize my life",
+   "version": "0.1",
+   "description": "",
+   "manifest_version": 2,
+   "permissions": ["declarativeContent"],
+   "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    }
+ }
